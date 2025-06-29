@@ -30,3 +30,4 @@ tmp/*
 knowledge/*
 # But do not ignore the directory itself
 !knowledge/.gitkeep
+.env
